@@ -41,13 +41,13 @@ src/ - Source code directory
 
     ```bash
 
-	javac Structural/DecoratorPattern/*.java
+	C:\Users\jimit\Desktop\designpatternjava>  javac Structural/DecoratorPattern/*.java
 
 2) **Run the main application**:
 
 ```bash
 
-    java Structural.DecoratorPattern.DecoratorPatternDemo
+   C:\Users\jimit\Desktop\designpatternjava>  java Structural.DecoratorPattern.DecoratorPatternDemo
 
 Make sure you are in the correct directory when running these commands.
 
